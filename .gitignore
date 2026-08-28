@@ -1,0 +1,17 @@
+# Folders intentionally excluded from this repository
+/oopsConcept/
+/oopsConcept2/
+/stringManupulation/
+
+# Java build output
+*.class
+/out/
+/build/
+/target/
+
+# IDE and OS metadata
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
